@@ -1,0 +1,4 @@
+C:\Users\David\Google Drive\ossec-auth\ossec-auth-net\ossec-auth-net\bin\Debug\ossec-auth-net.exe
+C:\Users\David\Google Drive\ossec-auth\ossec-auth-net\ossec-auth-net\bin\Debug\ossec-auth-net.pdb
+C:\Users\David\Google Drive\ossec-auth\ossec-auth-net\ossec-auth-net\obj\x86\Debug\ossec-auth-net.exe
+C:\Users\David\Google Drive\ossec-auth\ossec-auth-net\ossec-auth-net\obj\x86\Debug\ossec-auth-net.pdb
